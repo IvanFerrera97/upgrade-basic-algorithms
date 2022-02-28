@@ -91,4 +91,11 @@ if (number3*5 == number1 && number1*2 == number2) {
 
 if (number2/2 == number1 || number1/5 == number3) {
   console.log("number2 entre 2 es igual a number1 O number1 entre 5 es igual a number3");
-}*/
+}
+
+//Interaccion #6
+
+let contador = 0;
+for(let i = 0; i < 10; i++ ){
+    console.log(i);
+};*/
